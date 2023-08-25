@@ -47,8 +47,8 @@ Pokémon type   HP     XP    LEVEL     CoolDown1       CoolDown2
   2           100     0       0           0               0  
   3           100     0       0           0               0  
   
-> Pokémon Type's: 
->> 0 --> Pichu
->> 1 --> Charmander
->> 2 --> Bulbasaur
->> 3 --> Squirtle
+> Pokémon Type's:  
+>> 0 --> Pichu  
+>> 1 --> Charmander  
+>> 2 --> Bulbasaur  
+>> 3 --> Squirtle  
