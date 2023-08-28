@@ -1,0 +1,5 @@
+Pokémon type   HP     XP    LEVEL     CoolDown1       CoolDown2  
+  0           100     0       0           0               0  
+  1           100     0       0           0               0  
+  2           100     0       0           0               0  
+  3           100     0       0           0               0  
