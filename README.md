@@ -52,3 +52,4 @@ Pokémon type   HP     XP    LEVEL     CoolDown1       CoolDown2
 >> 1 --> Charmander  
 >> 2 --> Bulbasaur  
 >> 3 --> Squirtle  
+ 
